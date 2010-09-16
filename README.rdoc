@@ -1,0 +1,6 @@
+small extension to FieldDefs for getting the human name of a field based on lookup of translation by convention. (With the ability to override it per field)
+
+
+Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+
+Authored by Jacob Burkhart.
